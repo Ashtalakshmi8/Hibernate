@@ -1,0 +1,10 @@
+whats_App     1
+you_tube      2 
+Apple_store   3
+i_Movies      4 
+pages         5
+clips         6 
+iTunes_store  7
+Files         8 
+GarbageBand   9
+Google_pay   10
